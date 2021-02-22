@@ -16,7 +16,7 @@ YOL="$(xdg-user-dir DOCUMENTS)"
 ## Eski şifre dosyalarının yedekleneceği klasörü    #
 ## seçiniz                                          #
 ## Öntanımlı : $YOL/.backup                         #
-## Yani => /home/kullanıcı/Documents/.backup        #i
+## Yani => /home/kullanıcı/Documents/.backup        #
 ESKI="$YOL/.backup/"
 #####################################################
 
