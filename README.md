@@ -9,6 +9,6 @@ Base64
 xdg-user-dirs
 
 # Installation
-curl https://raw.githubusercontent.com/MuhammedTaha02/SimplePasswordVault/main/pswd | sudo tee /usr/bin/pswd
+curl https://raw.githubusercontent.com/MuhammedTaha02/SimplePasswordVault/main/pswd | sudo tee /usr/local/bin/pswd
 
-sudo chmod +x /usr/bin/pswd
+sudo chmod +x /usr/local/bin/pswd
